@@ -8,6 +8,7 @@ pyarrow
 opencv-python
 pillow
 imageio
+imageio-ffmpeg
 ipywidgets
 jupyterlab
 openvino>=2026.0
