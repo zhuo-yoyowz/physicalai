@@ -2,6 +2,7 @@ torch==2.7.1+cpu
 torchvision==0.22.1+cpu
 lerobot==0.5.1
 huggingface-hub>=0.34
+hf-xet
 safetensors>=0.4.3
 pandas
 pyarrow
